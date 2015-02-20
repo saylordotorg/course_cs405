@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS405: Artificial Intelligence"
+course_description: "An introduction to the fundamental concepts and techniques of intelligent systems. Explores state-space and problem-induction representations of problems, heuristic methods, and how these methods can be applied to artificial intelligence problems."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Game Playing** <span id="4"></span> 
 *Some of the earliest and most recognizable AI applications are games
 like chess and tic-tac-toe, the most famous being the chess match

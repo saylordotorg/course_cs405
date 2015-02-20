@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS405: Artificial Intelligence"
+course_description: "An introduction to the fundamental concepts and techniques of intelligent systems. Explores state-space and problem-induction representations of problems, heuristic methods, and how these methods can be applied to artificial intelligence problems."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Machine Learning** <span id="6"></span> 
 *Machine Learning refers to computer programs that are able to
 categorize data in order to maximize understanding of that information. 

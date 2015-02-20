@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS405: Artificial Intelligence"
+course_description: "An introduction to the fundamental concepts and techniques of intelligent systems. Explores state-space and problem-induction representations of problems, heuristic methods, and how these methods can be applied to artificial intelligence problems."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Natural Language Understanding** <span id="7"></span> 
 *This unit will provide you with a basic introduction to Natural
 Language Understanding (NLU) in AI.  Syntax, semantics, and ambiguity of

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS405: Artificial Intelligence"
+course_description: "An introduction to the fundamental concepts and techniques of intelligent systems. Explores state-space and problem-induction representations of problems, heuristic methods, and how these methods can be applied to artificial intelligence problems."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Robotics** <span id="8"></span> 
 *Robotics draws upon and integrates previous topics, as well as
 information and techniques from other disciplines, including many

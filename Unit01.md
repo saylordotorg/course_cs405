@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS405: Artificial Intelligence"
+course_description: "An introduction to the fundamental concepts and techniques of intelligent systems. Explores state-space and problem-induction representations of problems, heuristic methods, and how these methods can be applied to artificial intelligence problems."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Artificial Intelligence (AI) and AI
 Programming** <span id="1"></span> 
 *While AI applications can be developed in any number of different

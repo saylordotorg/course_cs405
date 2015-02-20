@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS405: Artificial Intelligence"
+course_description: "An introduction to the fundamental concepts and techniques of intelligent systems. Explores state-space and problem-induction representations of problems, heuristic methods, and how these methods can be applied to artificial intelligence problems."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Constraint Satisfaction** <span id="3"></span> 
 *AI applications are built upon the idea of a problem statement with
 constraints.  In AI, we must work within those constraints in order to
