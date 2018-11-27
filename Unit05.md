@@ -57,7 +57,7 @@ Upon successful completion of this unit, the student will be able to:
     Intelligence Course: “Chapter 9: Logic I”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 9: Logic
-    I"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf) (PDF)  
+    I"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf) (PDF)  
         
      Instructions: Study slides 9.1.1–9.1.7, in 6.034 Notes: Section
     9.1, which define a logic system as a formal language having syntax,
@@ -120,7 +120,7 @@ first-order calculus, extends the propositional calculus. *
     Intelligence Course: “Chapter 9: Logic I”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 9: Logic
-    I"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
+    I"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
     (PDF)  
         
      Instructions: Study slides 9.1.8–9.1.16, in 6.034 Notes: Section
@@ -151,7 +151,7 @@ gives the order in which operators are applied to wffs. *
     Intelligence Course: “Chapter 9: Logic I”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 9: Logic
-    I"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf) (PDF)  
+    I"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf) (PDF)  
         
      Instructions: Study slides 9.2.1–9.2.16, in 6.034 Notes: Section
     9.2, which explains semantics, i.e., the meaning of sentences in a
@@ -171,7 +171,7 @@ id="5.2.1.4"></span> 
     Intelligence Course: “Chapter 9: Logic I”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 9: Logic
-    I"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
+    I"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
     (PDF)  
         
      Instructions: Study slides 9.2.17 to 9.2.33, in 6.034 Notes:
@@ -208,7 +208,7 @@ which it is true, i.e., its value is false for all interpretations.  *
     Intelligence Course: “Chapter 9: Logic I”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 9: Logic
-    I"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
+    I"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
     (PDF)   
         
      Instructions: Study slides 9.3.1 to 9.3.7, in 6.034 Notes: Section
@@ -230,7 +230,7 @@ which it is true, i.e., its value is false for all interpretations.  *
     Intelligence Course: “Chapter 9: Logic I”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 9: Logic
-    I"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
+    I"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
     (PDF)   
         
      Instructions: Study slides 9.3.8 to 9.3.11 in 6.034 Notes: Section
@@ -251,7 +251,7 @@ which it is true, i.e., its value is false for all interpretations.  *
     Intelligence Course: “Chapter 9: Logic I”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 9: Logic
-    I"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
+    I"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
     (PDF)   
         
      Instructions: Study slides 9.3.12 to 9.3.18, in 6.034 Notes:
@@ -272,7 +272,7 @@ which it is true, i.e., its value is false for all interpretations.  *
     Intelligence Course: “Chapter 9: Logic I”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 9: Logic
-    I"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
+    I"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
     (PDF)   
         
      Instructions: Study slides 9.3.19 to 9.3.34, in 6.034 Notes:
@@ -302,7 +302,7 @@ id="5.2.2.1"></span> 
     Intelligence Course: “Chapter 9: Logic I”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 9: Logic
-    I"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
+    I"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
     (PDF)   
         
      Instructions: Study slides 9.4.1 to 9.4.7, in 6.034 Notes: Section
@@ -322,7 +322,7 @@ id="5.2.2.1"></span> 
     Intelligence Course: “Chapter 9: Logic I”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 9: Logic
-    I"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
+    I"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
     (PDF)   
         
      Instructions: Study slides 9.4.7 to 9.4.13, in 6.034 Notes: Section
@@ -356,7 +356,7 @@ id="5.2.2.2.1.3"></span> 
     Intelligence Course: “Chapter 9: Logic I”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 9: Logic
-    I"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
+    I"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.1-MIT.pdf)
     (PDF)   
         
      Instructions: Study slides 9.4.14 to 9.4.16, in 6.034 Notes:
@@ -392,7 +392,7 @@ id="5.2.2.3"></span> 
     Intelligence Course: “Chapter 9: Logic Ib”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 9: Logic
-    Ib"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.2.2.3.1-MIT.pdf)
+    Ib"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.2.2.3.1-MIT.pdf)
     (PDF)   
         
      Instructions: Study slides 9.5.1 to 9.5.8, in 6.034 Notes: Section
@@ -413,7 +413,7 @@ id="5.2.2.3"></span> 
     Intelligence Course: “Chapter 9: Logic Ib”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 9: Logic
-    Ib"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.2.2.3.1-MIT.pdf)
+    Ib"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.2.2.3.1-MIT.pdf)
     (PDF)   
         
      Instructions: Study slides 9.5.9 to 9.5.18, in 6.034 Notes: Section
@@ -440,7 +440,7 @@ discourse. *
     Intelligence Course: “Chapter 9: Logic Ib”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 9: Logic
-    Ib"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.2.2.3.1-MIT.pdf)
+    Ib"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.2.2.3.1-MIT.pdf)
     (PDF)  
         
      Instructions: Study slides 9.5.25 to 9.5.49, in 6.034 Notes:
@@ -461,7 +461,7 @@ id="5.2.2.4"></span> 
     Intelligence Course: “Chapter 9: Logic Ib”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: "[Chapter 9: Logic
-    Ib](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.2.2.3.1-MIT.pdf)”
+    Ib](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.2.2.3.1-MIT.pdf)”
     (PDF)   
         
      Instructions: Study slides 9.6.1 to 9.6.26, in 6.034 Notes: Section
@@ -483,7 +483,7 @@ id="5.2.2.5"></span> 
     Intelligence Course: “Chapter 9: Logic Ib”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 9: Logic
-    Ib"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.2.2.3.1-MIT.pdf)
+    Ib"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.2.2.3.1-MIT.pdf)
     (PDF)   
         
      Instructions: Study slides 9.7.1 to 9.7.24, in 6.034 Notes: Section
@@ -504,7 +504,7 @@ id="5.2.2.5"></span> 
     Intelligence Course: “Chapter 9: Logic Ib”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 9: Logic
-    Ib"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.2.2.3.1-MIT.pdf)
+    Ib"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.2.2.3.1-MIT.pdf)
     (PDF)   
         
      Instructions: Study slides 9.7.25 to 9.7.43, in 6.034 Notes:
@@ -530,7 +530,7 @@ id="5.2.2.5.3"></span> 
     Intelligence Course: “Chapter 10: Logic II”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 10: Logic
-    II"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.2.2.5.3-MIT.pdf)
+    II"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.2.2.5.3-MIT.pdf)
     (PDF)  
         
      Instructions: Read the slides in 6.034 Notes: Section 10.2, on
@@ -551,7 +551,7 @@ id="5.2.2.5.4"></span> 
     Intelligence Course: “Chapter 10: Logic IIb”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 10: Logic
-    IIb"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-5.2.2.5.4-MIT.pdf)
+    IIb"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-5.2.2.5.4-MIT.pdf)
     (PDF)  
         
      Instructions: Read the slides, in 6.034 Notes: Sections 10.5 and
@@ -570,7 +570,7 @@ id="5.2.2.5.4"></span> 
     Programming with Java: “Chapter 3: Reasoning”**
     Link: Mark Watson’s *Practical Artificial Intelligence Programming
     with Java*: “[Chapter 3:
-    Reasoning](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)”
+    Reasoning](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)”
     (PDF)  
         
      Instructions: Select the above link and read chapter 3, pages
@@ -586,7 +586,7 @@ id="5.2.2.5.4"></span> 
     Programming with Java: “Chapter 4: Semantic Web”**
     Link: Mark Watson’s *Practical Artificial Intelligence Programming
     with Java*: “[Chapter 4: Semantic
-    Web](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)”
+    Web](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)”
     (PDF)  
         
      Instructions: Select the above link and read chapter 4, pages
@@ -605,7 +605,7 @@ id="5.2.2.5.4"></span> 
     Programming with Java: “Chapter 5: Expert Systems”**
     Link: Mark Watson’s *Practical Artificial Intelligence Programming
     with Java*: “[Chapter 5: Expert
-    Systems](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)”(PDF)  
+    Systems](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)”(PDF)  
         
      Instructions: Select the above link and read chapter 5, pages
     73–98, which gives examples and tools for expert systems application

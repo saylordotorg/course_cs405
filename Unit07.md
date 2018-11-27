@@ -60,7 +60,7 @@ Upon successful completion of this unit, the student will be able to:
     Intelligence Course: “Chapter 12: Language Understanding”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 12: Language
-    Understanding"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-7.1-MIT.pdf)
+    Understanding"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-7.1-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 12.1.1–12.1.7, in 6.034 Notes: Section
@@ -96,7 +96,7 @@ id="7.1.1"></span> 
     Intelligence Course: “Chapter 12: Language Understanding”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 12: Language
-    Understanding"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-7.1-MIT.pdf)
+    Understanding"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-7.1-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 12.1.1–12.1.7, in 6.034 Notes: Section
@@ -132,7 +132,7 @@ id="7.1.2"></span> 
     Intelligence Course: “Chapter 12: Language Understanding”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 12: Language
-    Understanding"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-7.1-MIT.pdf)
+    Understanding"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-7.1-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 12.1.7–12.1.55, in 6.034 Notes: Section
@@ -152,7 +152,7 @@ id="7.1.2"></span> 
     Intelligence Course: “Chapter 12: Language Understanding”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 12: Language
-    Understanding"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-7.1-MIT.pdf)
+    Understanding"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-7.1-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 12.1.56–12.1.61 in 6.034 Notes: Section
@@ -172,7 +172,7 @@ id="7.1.2"></span> 
     Intelligence Course: “Chapter 12: Language Understanding”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: "[Chapter 12: Language
-    Understanding](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-7.1-MIT.pdf)”
+    Understanding](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-7.1-MIT.pdf)”
     (PDF)  
         
      Instructions: Read slides 12.2.1–12.2.9, in 6.034 Notes: Section
@@ -192,7 +192,7 @@ id="7.1.2"></span> 
     Intelligence Course: “Chapter 12: Language Understanding”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 12: Language
-    Understanding"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-7.1-MIT.pdf)
+    Understanding"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-7.1-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 12.2.10–12.2.19, in 6.034 Notes: Section
@@ -212,7 +212,7 @@ id="7.1.2"></span> 
     Intelligence Course: “Chapter 12: Language Understanding”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 12: Language
-    Understanding"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-7.1-MIT.pdf)
+    Understanding"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-7.1-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 12.2.19–12.2.50, in 6.034 Notes: Section
@@ -251,7 +251,7 @@ id="7.3.1"></span> 
     Intelligence Course: “Chapter 12: Language Understanding II”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 12: Language Understanding
-    II"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-7.3.1-MIT.pdf)
+    II"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-7.3.1-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 12.3.1–12.3.6, in 6.034 Notes: Section
@@ -272,7 +272,7 @@ id="7.3.1"></span> 
     Intelligence Course: “Chapter 12: Language Understanding II”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 12: Language Understanding
-    II"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-7.3.1-MIT.pdf)
+    II"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-7.3.1-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 12.3.7–12.3.12, in 6.034 Notes: Section
@@ -292,7 +292,7 @@ id="7.3.1"></span> 
     Intelligence Course: “Chapter 12: Language Understanding II”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 12: Language Understanding
-    II"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-7.3.1-MIT.pdf)
+    II"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-7.3.1-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 12.3.13–12.3.23, in 6.034 Notes: Section
@@ -311,7 +311,7 @@ id="7.3.1"></span> 
     Intelligence Course: “Chapter 12: Language Understanding II”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 12: Language Understanding
-    II"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-7.3.1-MIT.pdf)
+    II"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-7.3.1-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 12.3.24–12.3.28, in 6.034 Notes: Section
@@ -332,7 +332,7 @@ id="7.3.1"></span> 
     Intelligence Course: “Chapter 12: Language Understanding II”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 12: Language Understanding
-    II"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-7.3.1-MIT.pdf)
+    II"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-7.3.1-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 12.3.29–12.3.48, in 6.034 Notes: Section
@@ -353,7 +353,7 @@ id="7.3.1"></span> 
     Processing”**
     Link: Mark Watson’s *Practical Artificial Intelligence Programming
     with Java*: [Chapter 9: Statistical Natural Language
-    Processing](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf) (PDF)  
+    Processing](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf) (PDF)  
         
      Instructions: Select the above link and read chapter 9, pages
     137–176, which gives a lot of practical examples of NLP from a
@@ -373,7 +373,7 @@ id="7.3.1"></span> 
     Programming with Java: “Chapter: 10 Information Gathering”**
     Link: Mark Watson’s Practical Artificial Intelligence Programming
     with Java: “[Chapter 10: Information
-    Gathering](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)”
+    Gathering](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)”
     (PDF)  
         
      Instructions: Select the above link and read chapter 10, pages

@@ -57,7 +57,7 @@ Upon successful completion of this unit, the student will be able to:
     Course: “Chapter 1: Introduction”**
     Link: MIT: Asada and Leonard 2.12 Introduction to Robotics Course:
     “[Chapter 1:
-    Introduction](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-8.1-mit-Intro-Robotics.pdf)”
+    Introduction](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-8.1-mit-Intro-Robotics.pdf)”
     (PDF)  
         
      Instructions: Select the PDF link for Chapter 1: Introduction, and
@@ -77,7 +77,7 @@ Upon successful completion of this unit, the student will be able to:
     Course: “Lecture 01-Introduction”**
     Link: Rus CSAIL 6.141 Robotics: Science and Systems Course:
     “[Lecture
-    01-Introduction](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-8.1-MIT3.pdf)”
+    01-Introduction](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-8.1-MIT3.pdf)”
     (PDF)  
         
      Instructions: Read the material.  This introduction overviews the
@@ -160,7 +160,7 @@ Upon successful completion of this unit, the student will be able to:
     Course: “Lecture 07-System Engineering”**
     Link: Rus CSAIL 6.141 Robotics: Science and Systems Course:
     “[Lecture 07-System
-    Engineering](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-8.6-MIT.pdf)”
+    Engineering](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-8.6-MIT.pdf)”
     (PDF)  
         
      Instructions: Select the link for Lecture 07, and read the slides,
