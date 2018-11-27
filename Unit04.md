@@ -37,7 +37,7 @@ Upon successful completion of this unit, the student will be able to:
 **4.1 Background: Game Playing in AI** <span id="4.1"></span> 
 -   **Reading: Wikipedia: “History of Artificial Intelligence”**
     Link: Wikipedia: ["History of Artificial
-    Intelligence"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-4.1-WIKIPEDIA.pdf)
+    Intelligence"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-4.1-WIKIPEDIA.pdf)
     (PDF)  
         
      Instructions: Select the link and read optionally the history of
@@ -85,7 +85,7 @@ master-level chess play by a machine.*
     Programming with Java: “Chapter 2: Search”**
     Link: Mark Watson’s *Practical Artificial Intelligence Programming
     with Java*: ["Chapter 2:
-    Search"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf) (PDF)  
+    Search"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf) (PDF)  
         
      Instructions: Select the link above and read section 2.5 for ideas
     on programming searching, and implementing the ideas in Java
@@ -111,7 +111,7 @@ master-level chess play by a machine.*
     (CSP) and Games2”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 3: Constraint Satisfactory Problems (CSP) and
-    Games2"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-4.2.1-MIT.pdf)
+    Games2"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-4.2.1-MIT.pdf)
     (PDF)   
         
      Instructions: Study slides 3.4.1–3.4.33 in 6.034 Notes: Section
@@ -171,7 +171,7 @@ efficiency, and improve game-playing ability*
     (CSP) and Games2"**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 3: Constraint Satisfactory Problems (CSP) and
-    Games2"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-4.2.1-MIT.pdf)
+    Games2"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-4.2.1-MIT.pdf)
     (PDF)  
         
      Instructions: Study slides 3.4.31–3.4.33 in 6.034 Notes: Section

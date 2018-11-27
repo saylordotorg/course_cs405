@@ -40,7 +40,7 @@ Upon successful completion of this unit, the student will be able to:
     (CSP) and Games1”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: "[Chapter 3: Constraint Satisfactory Problems (CSP) and
-    Games1](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-3.1-MIT.pdf)”
+    Games1](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-3.1-MIT.pdf)”
     (PDF)  
         
      Instructions: Study slides 3.1.1–3.1.19 in 6.034 Notes: Section:
@@ -77,7 +77,7 @@ id="3.1.3"></span> 
     (CSP) and Games1”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: "[Chapter 3: Constraint Satisfactory Problems (CSP) and
-    Games1](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-3.1-MIT.pdf)”
+    Games1](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-3.1-MIT.pdf)”
     (PDF)  
         
      Instructions: Study slides 3.2.1–3.2.37 in 6.034 Notes: Section
@@ -113,7 +113,7 @@ id="3.2.1"></span> 
     (CSP) and Games1”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: "[Chapter 3: Constraint Satisfactory Problems (CSP) and
-    Games1](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-3.1-MIT.pdf)”
+    Games1](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-3.1-MIT.pdf)”
     (PDF)  
         
      Instructions: Open the PDF and study Section 3.3, slides

@@ -54,7 +54,7 @@ id="6.1"></span> 
     Intelligence Course: “Chapter 4: Learning Introduction”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 4: Learning
-    Introduction"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.1-MIT.pdf)
+    Introduction"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.1-MIT.pdf)
     (PDF)  
         
      Instructions: Study slides 4.1.1–4.1.7, in 6.034 Notes: Section
@@ -75,7 +75,7 @@ id="6.1"></span> 
     Intelligence Course: “Chapter 4: Learning Introduction”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 4: Learning
-    Introduction"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.1-MIT.pdf)
+    Introduction"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.1-MIT.pdf)
     (PDF)  
         
      Instructions: Study slides 4.1.8–4.1.42, in 6.034 Notes: Section
@@ -102,7 +102,7 @@ id="6.1"></span> 
     Intelligence Course: “Chapter 5: Machine Learning I”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 5: Machine Learning
-    I"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.1.2.1-MIT.pdf)
+    I"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.1.2.1-MIT.pdf)
     (PDF)  
         
      Instructions: Read slide 5.1.44, in 6.034 Notes: Section 5.1, on
@@ -125,7 +125,7 @@ predicting a future action by learning from past examples.  *
     Programming with Java: “Chapter 6: Genetic Algorithms”**
     Link: Mark Watson’s *Practical Artificial Intelligence Programming
     with Java*: ["Chapter 6: Genetic
-    Algorithms"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
+    Algorithms"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
     (PDF)  
         
      Instructions: Select the above link and read pages 99–108, where
@@ -142,7 +142,7 @@ predicting a future action by learning from past examples.  *
     Programming with Java: “Chapter 7: Neural Networks”**
     Link: Mark Watson’s *Practical Artificial Intelligence Programming
     with Java*: ["Chapter 7: Neural
-    Networks"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
+    Networks"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
     (PDF)  
         
      Instructions: Recognition of patterns occurs in search, game
@@ -167,7 +167,7 @@ predicting a future action by learning from past examples.  *
     Intelligence Course: “Chapter 5: Machine Learning I”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 5: Machine Learning
-    I"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.1.2.1-MIT.pdf)
+    I"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.1.2.1-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 5.2.30–5.2.39, in 6.034 Notes: Section
@@ -190,7 +190,7 @@ learning.*
     Intelligence Course: “Chapter 4: Learning Introduction”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 4: Learning
-    Introduction"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.1-MIT.pdf)
+    Introduction"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.1-MIT.pdf)
     (PDF)  
         
      Instructions: Select the link and study slides 4.2.1–4.2.45, in
@@ -209,7 +209,7 @@ learning.*
     Intelligence Course: “Chapter 10: Feature Spaces”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 10: Feature
-    Spaces"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.1.3.2-MIT.pdf)
+    Spaces"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.1.3.2-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 10.1.1–10.1.15, in 6.034 Notes: Section
@@ -227,7 +227,7 @@ learning.*
     Course: “Chapter 8: Machine Learning IV”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 8: Machine Learning
-    IV"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.1.3.2-MIT-PartII.pdf)
+    IV"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.1.3.2-MIT-PartII.pdf)
     (PDF)  
         
      Instructions: Look over the slides, in 6.034 Notes: Section 8.4. 
@@ -254,7 +254,7 @@ further in their respective sections in 6.2 Types of Machine Learning. *
     Intelligence Course: “Chapter 4: Learning Introduction”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 4: Learning
-    Introduction"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.1-MIT.pdf)
+    Introduction"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.1-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 4.3.1–4.3.43, in 6.034 Notes: Section
@@ -292,7 +292,7 @@ satisfies the objectives of the problem-solving application. *
     Intelligence Course: “Chapter 5: Machine Learning I"**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: “[Chapter 5: Machine Learning
-    I](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.1.2.1-MIT.pdf)”
+    I](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.1.2.1-MIT.pdf)”
     (PDF)  
         
      Instructions: Study slides 5.1.1–5.1.44 in 8.034 Section 5.1, on
@@ -311,7 +311,7 @@ satisfies the objectives of the problem-solving application. *
     Intelligence Course: “Chapter 5: Machine Learning I”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 5: Machine Learning
-    I"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.1.2.1-MIT.pdf)
+    I"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.1.2.1-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 5.2.1–5.2.25, in 6.034 Notes: Section
@@ -331,7 +331,7 @@ satisfies the objectives of the problem-solving application. *
     Intelligence Course: “Chapter 7: Machine Learning III”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course:["Chapter 7: Machine Learning
-    III"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.2.1.1.3-MIT.pdf)
+    III"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.2.1.1.3-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 7.3.1–7.3.39, in 6.034 Notes: Section
@@ -351,7 +351,7 @@ satisfies the objectives of the problem-solving application. *
     Intelligence Course: “Chapter 7: Machine Learning III”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: "[Chapter 7: Machine Learning
-    III](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.2.1.1.3-MIT.pdf)”
+    III](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.2.1.1.3-MIT.pdf)”
     (PDF)  
         
      Instructions: Read slide 7.4.24, in 6.034 Notes: Section 7.4, on
@@ -370,7 +370,7 @@ satisfies the objectives of the problem-solving application. *
     Intelligence Course: “Chapter 8: Machine Learning IV”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: "[Chapter 8: Machine Learning
-    IV](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.1.3.2-MIT-PartII.pdf)”
+    IV](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.1.3.2-MIT-PartII.pdf)”
     (PDF)  
         
      Instructions: Read the slides in 6.034 Notes: Sections 8.1, 8.2,
@@ -391,7 +391,7 @@ successes of supervised learning.*
 
 -   **Reading: Wikipedia: “Supervised Learning”**
     Link: Wikipedia: ["Supervised
-    Learning"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.2.1.2-WIKIPEDIA.pdf)
+    Learning"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.2.1.2-WIKIPEDIA.pdf)
     (PDF)  
         
      Instructions: Select the link and read the beginning of “Supervised
@@ -418,7 +418,7 @@ successes of supervised learning.*
     Intelligence Course: “Chapter 4: Learning Introduction”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 4: Learning
-    Introduction"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.1-MIT.pdf)
+    Introduction"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.1-MIT.pdf)
     (PDF)  
         
      Instructions: Read slide 4.1.9 on Clustering.   
@@ -456,7 +456,7 @@ feature extraction, and neural nets. *
 
 -   **Reading: Wikipedia: “Unsupervised Learning”**
     Link: Wikipedia: ["Unsupervised
-    Learning"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.2.2.2-WIKIPEDIA.pdf)
+    Learning"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.2.2.2-WIKIPEDIA.pdf)
     (PDF)  
         
      Instructions: Select the link and read the beginning of
@@ -480,7 +480,7 @@ feature extraction, and neural nets. *
     Intelligence Course: “Chapter 8: Machine Learning IV”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course:["Chapter 8: Machine Learning
-    IV"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.1.3.2-MIT-PartII.pdf)
+    IV"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.1.3.2-MIT-PartII.pdf)
     (PDF)  
         
      Instructions: Read the indicated slides in 6.034 Notes: Sections
@@ -562,7 +562,7 @@ id="6.2.2.2.5"></span> 
 **6.2.2.2.5.1 SOM** <span id="6.2.2.2.5.1"></span> 
 -   **Reading: Wikipedia: “Self-Organizing Map”**
     Link: Wikipedia: “[Self-Organizaing
-    Map](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.2.2.2.5.1-WIKIPEDIA.pdf)”
+    Map](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.2.2.2.5.1-WIKIPEDIA.pdf)”
     (PDF)  
         
      Instructions: Self-organizing Map (SOM) is a neural net model
@@ -578,7 +578,7 @@ id="6.2.2.2.5"></span> 
 **6.2.2.2.5.2 ART** <span id="6.2.2.2.5.2"></span> 
 -   **Reading: Wikipedia: “Adaptive Resonance Theory”**
     Link: Wikipedia: “[Adaptive Resonance
-    Theory](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.2.2.2.5.2-WIKIPEDIA.pdf)”
+    Theory](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.2.2.2.5.2-WIKIPEDIA.pdf)”
     (PDF)  
         
      Instructions: Adaptive resonance theory (ART) is another neural net
@@ -602,7 +602,7 @@ id="6.2.2.2.6"></span> 
 id="6.2.3.1"></span> 
 -   **Reading: Wikipedia: “Semi-Supervised Learning”**
     Link: Wikipedia: ["Semi-Supervised
-    Learning"](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.2.3.1-WIKIPEDIA.pdf)
+    Learning"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.2.3.1-WIKIPEDIA.pdf)
     (PDF)  
         
      Instructions: Select the link and read the summary of
@@ -628,7 +628,7 @@ probability.*
 **6.2.3.2.1 Co-Training** <span id="6.2.3.2.1"></span> 
 -   **Reading: Wikipedia: “Co-Training”**
     Link: Wikipedia:
-    "[Co-Training](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.2.3.2.1-WIKIPEDIA.pdf)”
+    "[Co-Training](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.2.3.2.1-WIKIPEDIA.pdf)”
     (PDF)  
         
      Instructions: Select the link and read the summary of this
@@ -645,7 +645,7 @@ probability.*
     “Handouts Probability Theory Review”**
     Link: Stanford University: Ieong CS229 Machine Learning Course:
     “[Probability Theory
-    Review](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.2.3.2.2-STANFORD.pdf)”
+    Review](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.2.3.2.2-STANFORD.pdf)”
     (PDF)  
         
      Instructions: Select the link and read section 1.3, which describes
@@ -666,7 +666,7 @@ probability.*
 **6.2.3.2.2.1 Maximum Likelihood** <span id="6.2.3.2.2.1"></span> 
 -   **Reading: Wikipedia: “Maximum Likelihood”**
     Link: Wikipedia: “[Maximum
-    Likelihood](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.2.3.2.2.1-WIKIPEDIA.pdf)”
+    Likelihood](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.2.3.2.2.1-WIKIPEDIA.pdf)”
     (PDF)  
         
      Instructions: Select the link and read the summary of maximum
@@ -682,7 +682,7 @@ probability.*
 **6.2.3.2.2.2 Expectation Maximization** <span id="6.2.3.2.2.2"></span> 
 -   **Reading: Wikipedia: “Expectation maximization”**
     Link: Wikipedia: “[Expectation
-    maximization](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-6.2.3.2.2.2-WIKIPEDIA.pdf)”
+    maximization](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-6.2.3.2.2.2-WIKIPEDIA.pdf)”
     (PDF)  
         
      Instructions: Select the link and read the summary of expectation
@@ -701,7 +701,7 @@ probability.*
     Programming with Java: “Chapter 8: Machine Learning with Weka”**
     Link: Mark Watson’s *Practical Artificial Intelligence Programming
     with Java*: “[Chapter 8: Machine Learning with
-    Weka](http://www.saylor.org/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)”
+    Weka](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)”
     (PDF)  
         
      Instructions: Select the above link and read chapter 8, pages
