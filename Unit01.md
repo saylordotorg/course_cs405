@@ -67,7 +67,7 @@ id="1.1"></span> 
     Programming with Java: “Chapter 1: Introduction”**
     Link: Mark Watson’s *Practical Artificial Intelligence Programming
     with Java*: “[Chapter 1:
-    Introduction](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)”
+    Introduction](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)”
     (PDF)  
         
      Instructions: Read chapter 1, pages 1-4.  AI concepts and
@@ -95,7 +95,7 @@ id="1.1"></span> 
     Intelligence Course: “Chapter 11: Logic Programming”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 11: Logic
-    Programming"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-1.2.1-MIT.pdf)
+    Programming"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/CS405-1.2.1-MIT.pdf)
     (PDF)  
         
      Instructions: Look over the slides in section 6.034 Notes: Section
@@ -123,7 +123,7 @@ id="1.1"></span> 
     Intelligence Course: “Chapter 11: Logic Programming”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 11: Logic
-    Programming"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-1.2.1-MIT.pdf)
+    Programming"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/CS405-1.2.1-MIT.pdf)
     (PDF)  
         
      Instructions: Look over the slides in section 6.034 Notes: Section
