@@ -44,7 +44,7 @@ Upon successful completion of this unit, the student will be able to:
     Programming with Java: “Chapter 2: Search”**
     Link: Mark Watson’s *Practical Artificial Intelligence Programming
     with Java*: ["Chapter 2:
-    Search"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
+    Search"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
     (PDF)  
         
      Instructions: Select the above link and read chapter 2, page 5, up
@@ -64,7 +64,7 @@ Upon successful completion of this unit, the student will be able to:
     Programming with Java: “Chapter 2: Search”**
     Link: Mark Watson’s *Practical Artificial Intelligence Programming
     with Java*: ["Chapter 2:
-    Search"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
+    Search"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
     (PDF)  
         
      Instructions: Select the link above and read chapter 2, section
@@ -81,7 +81,7 @@ Upon successful completion of this unit, the student will be able to:
     Intelligence Course: “Chapter 2: Search1”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 2:
-    Search1"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-2.1.2-MIT.pdf)
+    Search1"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/CS405-2.1.2-MIT.pdf)
     (PDF)  
         
      Instructions: Study the first 10 slides, slides 2.1.1 to 2.1.10, in
@@ -134,7 +134,7 @@ nodes to represent goals.  *
     Intelligence Course: “Chapter 2: Search1”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 2:
-    Search1"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-2.1.2-MIT.pdf) (PDF)  
+    Search1"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/CS405-2.1.2-MIT.pdf) (PDF)  
                               
      Instructions: Study slides 2.2.1 to 2.2.6 in section 6.034 Notes:
     Section 2.2, on searching trees and graphs for a path.  Four classes
@@ -153,7 +153,7 @@ nodes to represent goals.  *
     Programming with Java: “Chapter 2: Search”**
     Link: Mark Watson’s *Practical Artificial Intelligence Programming
     with Java*: ["Chapter 2:
-    Search"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
+    Search"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf)
     (PDF)           
         
      Instructions: Select the link above and read sections 2.2 and 2.3
@@ -171,7 +171,7 @@ nodes to represent goals.  *
     Intelligence Course: “Chapter 2: Search1”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 2”
-    Search1"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-2.1.2-MIT.pdf)
+    Search1"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/CS405-2.1.2-MIT.pdf)
     (PDF)  
         
      Instructions: Study slides 2.2.7 through 2.2.18 for implementation
@@ -211,7 +211,7 @@ before traversing the links to descendants. *
     Programming with Java: “Chapter 2: Search”**
     Link: Mark Watson’s *Practical Artificial Intelligence Programming
     with Java*: ["Chapter 2:
-    Search"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf) (PDF)  
+    Search"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/CS405-1.1-WATSON.pdf) (PDF)  
          
      Instructions: Select the link above and read section 2.4 for ideas
     on improving searching and implementing the ideas in Java programs. 
@@ -228,7 +228,7 @@ before traversing the links to descendants. *
     Intelligence Course: “Chapter 2: Search1”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 2:
-    Search1"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-2.1.2-MIT.pdf)
+    Search1"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/CS405-2.1.2-MIT.pdf)
     (PDF)  
         
      Instructions: Study slides 2.2.30 through 2.2.36, which show that
@@ -267,7 +267,7 @@ searches, or informed searches. *
     Intelligence Course: “Chapter 2: Search2”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 2:
-    Search2"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-2.2.3-MIT.pdf)
+    Search2"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/CS405-2.2.3-MIT.pdf)
     (PDF)  
         
      Instructions: Study slides 2.4.1–2.4.34 in 6.034 Notes: Section
@@ -304,7 +304,7 @@ node, instead of information about a path from a node to the goal node.*
     Intelligence Course: “Chapter 2: Search2”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 2:
-    Search2"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-2.2.3-MIT.pdf)
+    Search2"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/CS405-2.2.3-MIT.pdf)
     (PDF)  
         
      Instructions: Study slides 2.5.1– 2.5.21, in 6.034 Notes: Section
@@ -338,7 +338,7 @@ distance from the start node to the goal as the heuristic.  *
     Intelligence Course: “Chapter 2: Search1”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 2:
-    Search1"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-2.1.2-MIT.pdf)
+    Search1"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/CS405-2.1.2-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 2.2.19 to 2.2.31, in the PDF file Chapter
@@ -358,7 +358,7 @@ distance from the start node to the goal as the heuristic.  *
     Intelligence Course: “Chapter 2: Search3”**
     Link: MIT: Kaelbling and Lozano-Perez 6.034 Artificial Intelligence
     Course: ["Chapter 2:
-    Search3"](https://resources.saylor.org/archived/wp-content/uploads/2011/11/CS405-2.3-MIT.pdf)
+    Search3"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/CS405-2.3-MIT.pdf)
     (PDF)  
         
      Instructions: Read slides 2.6.1 to 2.7.26, in the PDF file Chapter
